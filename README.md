@@ -82,9 +82,9 @@ Awesome programming ideas and inspiration from all around the world of languages
 - Siri
 - Alfresco, Zimbra, LifeRay
 
-## Other
+## IDEA: Portable API
 
-### sl4a API wrapper
+From sl4a API wrapper
 
 ```
   rhino
@@ -102,3 +102,13 @@ Awesome programming ideas and inspiration from all around the world of languages
   my $a = Android->new();
   $a->makeToast("Hello, Android!");
 ```
+
+And in text:
+
+```
+droid makeToast Hello, Android!
+
+```
+
+See https://github.com/fantasyui-com/conversational-ui for conclusion
+
