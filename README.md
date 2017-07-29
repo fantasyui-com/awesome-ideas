@@ -3,7 +3,13 @@ Awesome programming ideas and inspiration from all around the world of languages
 
 ## GUI Ideas
 
+### Advanced
+- Item Renderer
+
 ### Container
+- Window
+- Accordion
+- Divided Box
 - Grid
 - Container
 - Row
@@ -16,6 +22,33 @@ Awesome programming ideas and inspiration from all around the world of languages
 - Carousel
 
 ### Components
+- Alerts
+- Badge
+- Breadcrumb
+- Buttons
+- Button group
+- Card
+- Carousel
+- Collapse
+- Dropdowns
+- Forms
+- Input group
+- Jumbotron
+- List group
+- Modal
+- Navs
+- Navbar
+- Pagination
+- Popovers
+- Progress
+- Scrollspy
+- Tooltips
+- Scroll
+- Tree
+- Video
+- List
+- Menu
+- Data Grid
 - Alert
 - Message
 - Notice
@@ -33,13 +66,11 @@ Awesome programming ideas and inspiration from all around the world of languages
 - Progress Bar
 - Transfer
 - Spinner
-
 - Text
 - Rich Text
 - Code
 - Button
 - Icon
-
 - Input Text
 - Input Password
 - Input Number
@@ -53,7 +84,6 @@ Awesome programming ideas and inspiration from all around the world of languages
 - Date Picker
 - Time Picker
 - Rating
-
 - Breadcrumb
 - Menu
 - LoadingBar
@@ -61,14 +91,12 @@ Awesome programming ideas and inspiration from all around the world of languages
 - Page
 - Steps
 - Tabs
-
 - Color
 - Font
 - Layout
 - Theme
 - Affix
 - BackTop
-
 
 ## Notes (references)
 ----
