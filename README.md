@@ -1,19 +1,27 @@
 # awesome-ideas
 Awesome programming ideas and inspiration from all around the world of languages and patterns.
 
-## GUI Ideas (initial list based on iView)
+## GUI Ideas
 
-### Chart
-- Circle
+### Container
+- Grid
+- Container
+- Row
+- Column
+- VBox
+- HBox
+- Table
+- Cell
+- Collapsible
+- Carousel
 
-### View
+### Components
 - Alert
 - Message
 - Notice
 - Modeal
 - Tooltip
 - Poptip
-- Progress
 - Badge
 - Timeline
 - Tag
@@ -22,30 +30,30 @@ Awesome programming ideas and inspiration from all around the world of languages
 - Table
 - Carousel
 - Tree
+- Progress Bar
+- Transfer
+- Spinner
 
-
-### Basic
+- Text
+- Rich Text
+- Code
 - Button
 - Icon
-- Grid
 
-### Form
-- Cascader
-- Input
-- Form
-- InputNumber
+- Input Text
+- Input Password
+- Input Number
 - Radio
 - Checkbox
 - Switch
 - Select
 - Slider
+- Range Slider
 - Upload
-- DatePicker
-- TimePicker
-- Transfer
-- Rate
+- Date Picker
+- Time Picker
+- Rating
 
-### Navigation
 - Breadcrumb
 - Menu
 - LoadingBar
@@ -54,15 +62,13 @@ Awesome programming ideas and inspiration from all around the world of languages
 - Steps
 - Tabs
 
-
-### Others
 - Color
 - Font
 - Layout
 - Theme
 - Affix
 - BackTop
-- Spin
+
 
 ## Notes (references)
 ----
