@@ -1,6 +1,11 @@
 # awesome-ideas
 Awesome programming ideas and inspiration from all around the world of languages and patterns.
 
+![](https://imgs.xkcd.com/comics/standards.png)
+
+## Terminal Strikes Back
+Catching up with hundreds of changes in popular UI libraries is time consuming, meanwhile there are no changes to Terminal UI. A Terminal UI GUI library, similar to DatGUI but even sturdier, fully backwards compatible with Terminals.
+
 ## Notes (references)
 ----
 - Rough Notes
